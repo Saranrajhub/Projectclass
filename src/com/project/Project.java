@@ -21,8 +21,9 @@ public class Project {
 			String string = (String) elements.nextElement();
 			System.out.println(string);
 		}
+
+                                System.out.println("newpersonchange");                             
 		
-System.out.println("new person change");
 	}
 
 }
