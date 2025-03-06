@@ -22,6 +22,7 @@ public class Project {
 			System.out.println(string);
 		}
 		
+System.out.println("new person change");
 	}
 
 }
